@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.card {
+  @apply bg-white flex flex-col items-center justify-center p-6;
+}
+
+.img-card {
+  @apply w-full relative rounded-xl;
+}
+
+body {
+  @apply bg-yellow-200 min-h-screen flex items-center justify-center;
+}
