@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/)
-- [Live Site](https://your-live-site-url.com)
+- [Live Site](not yet)
 
 ---
 
