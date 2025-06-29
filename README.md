@@ -87,7 +87,7 @@ In future projects, I plan to:
 
 ## Author
 
-- Name: Ken
+- Name: Ken Patrick Garcia
 - Frontend Mentor: [@ken](https://www.frontendmentor.io/profile/ken)
 
 ---
