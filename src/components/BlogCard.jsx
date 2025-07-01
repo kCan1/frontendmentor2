@@ -8,7 +8,7 @@ const BlogCard = () => {
       <img className="img-card" src={topImage} alt="Avatar" />
       <section className="flex flex-row items-start justify-start">
         <div className="bg-[#F4D04E] rounded-sm p-1 mt-2">
-          <h3 className="font-extrabold px-1">Learning</h3>
+          <h3 className="px-1">Learning</h3>
         </div>
       </section>
       <h2 className="font-medium">Published 21 Dec 2023</h2>

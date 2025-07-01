@@ -10,6 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
+  - [Tech Stack](#tech-stack)
   - [What I Learned](#what-i-learned)
   - [Continued Development](#continued-development)
   - [Useful Resources](#useful-resources)
@@ -47,6 +48,16 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+### Tech Stack
+
+- HTML5
+- CSS3 (with custom properties)
+- Tailwind CSS
+- React (functional components)
+- Vite (build tool)
+- Flexbox & CSS Grid for layout
 
 ### What I Learned
 
@@ -57,17 +68,7 @@ This project helped reinforce my understanding of:
 - Implementing accessible and interactive UI elements
 - Using Vite for fast React development
 
-```jsx
-// Example: React component structure
-function BlogCard({ title, description }) {
-  return (
-    <div className="blog-card">
-      <h2>{title}</h2>
-      <p>{description}</p>
-    </div>
-  );
-}
-```
+However, I found it challenging to get the text sizes right and make them responsive across different devices. Adjusting font sizes and ensuring good readability on both mobile and desktop required extra effort and experimentation.
 
 ### Continued Development
 
@@ -88,6 +89,6 @@ In future projects, I plan to:
 ## Author
 
 - Name: Ken Patrick Garcia
-- Frontend Mentor: [@ken](https://www.frontendmentor.io/profile/ken)
+- Frontend Mentor: [@ken](https://www.frontendmentor.io/profile/KpG782)
 
 ---
