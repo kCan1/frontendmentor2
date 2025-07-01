@@ -8,7 +8,7 @@ function App() {
     <>
       <main className="mainHomeScreen">
         <section>
-          <div className="w-full max-w-[300px] max-h-[500] drop-shadow-[6px_6px_0px_rgba(0,0,0,1)]">
+          <div className="w-full max-w-[260px] max-h-[400] drop-shadow-[6px_6px_0px_rgba(0,0,0,1)]">
             <BlogCard />
           </div>
         </section>
