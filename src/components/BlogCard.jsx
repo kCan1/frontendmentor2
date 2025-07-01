@@ -15,7 +15,7 @@ const BlogCard = () => {
       <h1 className="font-extrabold text-md hover:text-yellow-400 hover:cursor-pointer">
         HTML & CSS foundations
       </h1>
-      <p className=" text-stone-600 -tracking-tighter">
+      <p className=" text-stone-600 -tracking-tight leading-3">
         These languages are the backbone of every website, defining structure,
         content, and presentation.
       </p>
